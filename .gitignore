@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+ENV/
+env/
+.env
+*.pt
+*.pth
+*.h5
+*.ckpt
+*.safetensors
+*.bin
+
+# Node / JS
+node_modules/
+dist/
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+npm-debug.log*
+
+# Windows / OS
+Thumbs.db
+db.json
+Desktop.ini
+.DS_Store
